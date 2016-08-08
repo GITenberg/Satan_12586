@@ -1,0 +1,30 @@
+_repo: Satan_12586
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chafer, Lewis Sperry
+    birthdate: 1871
+    deathdate: 1952
+    gutenberg_agent_id: '4439'
+    url: http://www.gutenberg.org/2009/agents/4439
+    wikipedia: http://en.wikipedia.org/wiki/Lewis_Sperry_Chafer
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12586'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Devil -- Christianity'
+- !lcc 'BT'
+- !lcsh 'Spiritual life -- Christianity'
+- GITenberg
+tableOfContents: The career of Satan -- The ages -- The course of this age -- This
+  age and the Satanic system -- The satanic host -- Satan's motive -- Satan's methods
+  -- The man of sin -- The fatal omission -- Modern devices -- The believer's present
+  position -- The believer's present victory.
+title: Satan
+url: http://www.gutenberg.org/ebooks/12586
